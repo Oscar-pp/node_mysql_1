@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "mysql2": "3.15.2"
+  },
+  "name": "node_mysql_1",
+  "version": "1.0.0",
+  "description": "MySQL NODE",
+  "main": "src/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscar-pp/node_mysql_1.git"
+  },
+  "keywords": [],
+  "author": "Racso Solutions",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Oscar-pp/node_mysql_1/issues"
+  },
+  "homepage": "https://github.com/Oscar-pp/node_mysql_1#readme"
+}
